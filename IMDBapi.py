@@ -31,5 +31,5 @@ for movie in list:
     results = json.loads(response.text)
     flims.append (results)
 
-with open('Acting.json','w') as outfile:
+with open('Academy_Awards.json','w') as outfile:
     json.dump(flims, outfile, indent = 2)
