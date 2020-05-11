@@ -1,0 +1,402 @@
+[
+  {
+    "Title": "The King's Speech",
+    "Year": "2010",
+    "Rated": "R",
+    "Released": "25 Dec 2010",
+    "Runtime": "118 min",
+    "Genre": "Biography, Drama, History",
+    "Director": "Tom Hooper",
+    "Writer": "David Seidler (screenplay)",
+    "Actors": "Colin Firth, Helena Bonham Carter, Derek Jacobi, Robert Portal",
+    "Plot": "The story of King George VI, his impromptu ascension to the throne of the British Empire in 1936, and the speech therapist who helped the unsure monarch overcome his stammer.",
+    "Language": "English",
+    "Country": "UK, USA, Australia",
+    "Awards": "Won 4 Oscars. Another 106 wins & 204 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzU5MjEwMTg2Nl5BMl5BanBnXkFtZTcwNzM3MTYxNA@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "95%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "88/100"
+      }
+    ],
+    "Metascore": "88",
+    "imdbRating": "8.0",
+    "imdbVotes": "620,382",
+    "imdbID": "tt1504320",
+    "Type": "movie",
+    "DVD": "19 Apr 2011",
+    "BoxOffice": "$138,300,000",
+    "Production": "The Weinstein Company",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Artist",
+    "Year": "2011",
+    "Rated": "PG-13",
+    "Released": "20 Jan 2012",
+    "Runtime": "100 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Michel Hazanavicius",
+    "Writer": "Michel Hazanavicius",
+    "Actors": "Jean Dujardin, B\u00e9r\u00e9nice Bejo, John Goodman, James Cromwell",
+    "Plot": "An egomaniacal film star develops a relationship with a young dancer against the backdrop of Hollywood's silent era.",
+    "Language": "English, French",
+    "Country": "France, Belgium, USA",
+    "Awards": "Won 5 Oscars. Another 156 wins & 203 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDUyZWU5N2UtOWFlMy00MTI0LTk0ZDYtMzFhNjljODBhZDA5XkEyXkFqcGdeQXVyNzA4ODc3ODU@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "95%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "89/100"
+      }
+    ],
+    "Metascore": "89",
+    "imdbRating": "7.9",
+    "imdbVotes": "224,074",
+    "imdbID": "tt1655442",
+    "Type": "movie",
+    "DVD": "26 Jun 2012",
+    "BoxOffice": "$44,667,095",
+    "Production": "The Weinstein Company",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Argo",
+    "Year": "2012",
+    "Rated": "R",
+    "Released": "12 Oct 2012",
+    "Runtime": "120 min",
+    "Genre": "Biography, Drama, Thriller",
+    "Director": "Ben Affleck",
+    "Writer": "Chris Terrio (screenplay by), Tony Mendez (based on a selection from \"The Master of Disguise\" by), Joshuah Bearman (based on the Wired Magazine article \"The Great Escape\" by)",
+    "Actors": "Ben Affleck, Bryan Cranston, Alan Arkin, John Goodman",
+    "Plot": "Acting under the cover of a Hollywood producer scouting a location for a science fiction film, a CIA agent launches a dangerous operation to rescue six Americans in Tehran during the U.S. hostage crisis in Iran in 1979.",
+    "Language": "English, Persian, Arabic",
+    "Country": "USA, UK",
+    "Awards": "Won 3 Oscars. Another 93 wins & 153 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzljNjY3MDYtYzc0Ni00YjU0LWIyNDUtNTE0ZDRiMGExMjZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "86/100"
+      }
+    ],
+    "Metascore": "86",
+    "imdbRating": "7.7",
+    "imdbVotes": "556,890",
+    "imdbID": "tt1024648",
+    "Type": "movie",
+    "DVD": "19 Feb 2013",
+    "BoxOffice": "$136,019,448",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "12 Years a Slave",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "08 Nov 2013",
+    "Runtime": "134 min",
+    "Genre": "Biography, Drama, History",
+    "Director": "Steve McQueen",
+    "Writer": "John Ridley (screenplay by), Solomon Northup (based on \"Twelve Years a Slave\" by)",
+    "Actors": "Chiwetel Ejiofor, Dwight Henry, Dickie Gravois, Bryan Batt",
+    "Plot": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+    "Language": "English",
+    "Country": "UK, USA",
+    "Awards": "Won 3 Oscars. Another 238 wins & 335 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "95%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "96/100"
+      }
+    ],
+    "Metascore": "96",
+    "imdbRating": "8.1",
+    "imdbVotes": "608,510",
+    "imdbID": "tt2024544",
+    "Type": "movie",
+    "DVD": "04 Mar 2014",
+    "BoxOffice": "$50,628,650",
+    "Production": "Fox Searchlight",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "Year": "2014",
+    "Rated": "R",
+    "Released": "14 Nov 2014",
+    "Runtime": "119 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Alejandro G. I\u00f1\u00e1rritu",
+    "Writer": "Alejandro G. I\u00f1\u00e1rritu, Nicol\u00e1s Giacobone, Alexander Dinelaris, Armando Bo, Raymond Carver (play)",
+    "Actors": "Michael Keaton, Emma Stone, Kenny Chin, Jamahl Garrison-Lowe",
+    "Plot": "A washed-up superhero actor attempts to revive his fading career by writing, directing, and starring in a Broadway production.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 4 Oscars. Another 192 wins & 285 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODAzNDMxMzAxOV5BMl5BanBnXkFtZTgwMDMxMjA4MjE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "91%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "87/100"
+      }
+    ],
+    "Metascore": "87",
+    "imdbRating": "7.7",
+    "imdbVotes": "552,429",
+    "imdbID": "tt2562232",
+    "Type": "movie",
+    "DVD": "17 Feb 2015",
+    "BoxOffice": "N/A",
+    "Production": "Fox Searchlight",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Spotlight",
+    "Year": "2015",
+    "Rated": "R",
+    "Released": "20 Nov 2015",
+    "Runtime": "129 min",
+    "Genre": "Biography, Crime, Drama",
+    "Director": "Tom McCarthy",
+    "Writer": "Josh Singer, Tom McCarthy",
+    "Actors": "Mark Ruffalo, Michael Keaton, Rachel McAdams, Liev Schreiber",
+    "Plot": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 2 Oscars. Another 123 wins & 141 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "97%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "93/100"
+      }
+    ],
+    "Metascore": "93",
+    "imdbRating": "8.1",
+    "imdbVotes": "393,952",
+    "imdbID": "tt1895587",
+    "Type": "movie",
+    "DVD": "23 Feb 2016",
+    "BoxOffice": "N/A",
+    "Production": "Open Road Films",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Moonlight",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "18 Nov 2016",
+    "Runtime": "111 min",
+    "Genre": "Drama",
+    "Director": "Barry Jenkins",
+    "Writer": "Barry Jenkins (screenplay by), Tarell Alvin McCraney (story by)",
+    "Actors": "Mahershala Ali, Shariff Earp, Duan Sanderson, Alex R. Hibbert",
+    "Plot": "A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 3 Oscars. Another 226 wins & 288 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzQxNTIyODAxMV5BMl5BanBnXkFtZTgwNzQyMDA3OTE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "98%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "99/100"
+      }
+    ],
+    "Metascore": "99",
+    "imdbRating": "7.4",
+    "imdbVotes": "253,485",
+    "imdbID": "tt4975722",
+    "Type": "movie",
+    "DVD": "28 Feb 2017",
+    "BoxOffice": "$27,850,910",
+    "Production": "A24 Films",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Shape of Water",
+    "Year": "2017",
+    "Rated": "R",
+    "Released": "22 Dec 2017",
+    "Runtime": "123 min",
+    "Genre": "Adventure, Drama, Fantasy, Romance, Thriller",
+    "Director": "Guillermo del Toro",
+    "Writer": "Guillermo del Toro (screenplay by), Vanessa Taylor (screenplay by), Guillermo del Toro (story by)",
+    "Actors": "Sally Hawkins, Michael Shannon, Richard Jenkins, Octavia Spencer",
+    "Plot": "At a top secret research facility in the 1960s, a lonely janitor forms a unique relationship with an amphibious creature that is being held in captivity.",
+    "Language": "English, American Sign Language, Russian, French",
+    "Country": "USA, Canada",
+    "Awards": "Won 4 Oscars. Another 134 wins & 347 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGNiNWQ5M2MtNGI0OC00MDA2LWI5NzEtMmZiYjVjMDEyOWYzXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "87/100"
+      }
+    ],
+    "Metascore": "87",
+    "imdbRating": "7.3",
+    "imdbVotes": "345,768",
+    "imdbID": "tt5580390",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Green Book",
+    "Year": "2018",
+    "Rated": "PG-13",
+    "Released": "16 Nov 2018",
+    "Runtime": "130 min",
+    "Genre": "Biography, Comedy, Drama, Music",
+    "Director": "Peter Farrelly",
+    "Writer": "Nick Vallelonga, Brian Hayes Currie, Peter Farrelly",
+    "Actors": "Viggo Mortensen, Mahershala Ali, Linda Cardellini, Sebastian Maniscalco",
+    "Plot": "A working-class Italian-American bouncer becomes the driver of an African-American classical pianist on a tour of venues through the 1960s American South.",
+    "Language": "English, Italian, Russian, German",
+    "Country": "USA, China",
+    "Awards": "Won 3 Oscars. Another 54 wins & 121 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "78%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "69/100"
+      }
+    ],
+    "Metascore": "69",
+    "imdbRating": "8.2",
+    "imdbVotes": "314,419",
+    "imdbID": "tt6966692",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Parasite",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "08 Nov 2019",
+    "Runtime": "132 min",
+    "Genre": "Comedy, Drama, Thriller",
+    "Director": "Bong Joon Ho",
+    "Writer": "Bong Joon Ho (story), Bong Joon Ho (screenplay), Jin Won Han (screenplay)",
+    "Actors": "Kang-ho Song, Sun-kyun Lee, Yeo-jeong Jo, Woo-sik Choi",
+    "Plot": "A poor family, the Kims, con their way into becoming the servants of a rich family, the Parks. But their easy life gets complicated when their deception is threatened with exposure.",
+    "Language": "Korean, English",
+    "Country": "South Korea",
+    "Awards": "Won 4 Oscars. Another 255 wins & 221 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "99%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "96/100"
+      }
+    ],
+    "Metascore": "96",
+    "imdbRating": "8.6",
+    "imdbVotes": "355,505",
+    "imdbID": "tt6751668",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+]
